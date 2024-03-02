@@ -27,6 +27,7 @@ function forEach(items, callback) {
 module.exports = {
   sum,
   sum2,
+  sum3,
   sub,
   multi,
   forEach,
